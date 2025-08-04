@@ -1,0 +1,1 @@
+{"mappings":"ACCA","sources":["index.38e303c7.css","src/style.css"],"sourcesContent":["body {\n  flex-flow: column wrap;\n  margin: 0;\n  display: flex;\n}\n/*# sourceMappingURL=index.38e303c7.css.map */\n","/* add styles here */\nbody {\n  display: flex;\n  flex-flow: column wrap;\n  margin: 0;\n}\n"],"names":[],"version":3,"file":"index.38e303c7.css.map"}
